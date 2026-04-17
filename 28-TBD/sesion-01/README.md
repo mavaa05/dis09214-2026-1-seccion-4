@@ -10,4 +10,4 @@ aqui
 
 en la faad
 
-![texto que explica la imagen](ropaig)
+![texto que explica la imagen](./ropaig.jpg)
