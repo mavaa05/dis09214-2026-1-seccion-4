@@ -8,6 +8,8 @@ en for primero se inicia, mientras esto se cumpla, como se actualiza
 push guarda las condiciones actuales 
 pop es vuelve a tu estado de antes , (cuando hiciste push)
 
+ translate hace que el origen este en otro lugar del lienzo dondole posicion en x; y 
+ translate(x,y)
 
 
 ```
