@@ -1,5 +1,14 @@
 # sesion-06
 
+una iteracion es repeticion pero cada que se repite cambia de alguna forma 
+
+en for primero se inicia, mientras esto se cumpla, como se actualiza 
+
+
+
+
+
+
 ```
 // for loop
 // hace que un bloque de codigo se repita
