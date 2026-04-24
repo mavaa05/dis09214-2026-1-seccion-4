@@ -5,7 +5,8 @@ una iteracion es repeticion pero cada que se repite cambia de alguna forma
 en for primero se inicia, mientras esto se cumpla, como se actualiza 
 
 
-
+push guarda las condiciones actuales 
+pop es vuelve a tu estado de antes , (cuando hiciste push)
 
 
 
